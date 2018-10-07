@@ -42,7 +42,7 @@ public class SimpleGameTemplate implements AbstractGameTemplate
     private boolean isCoupaing;
 
     private int weight;
-,,
+
     private ArrayBlockingQueue<Long> stats;
 
     public SimpleGameTemplate(String id, JsonElement data)
